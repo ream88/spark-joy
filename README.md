@@ -186,6 +186,7 @@ MAKE SURE TO CHECK OUT https://components.ai
     - text shadows
     - experiment with multiple shadows on one element
   - Card border Generator https://card.surge.sh/
+  - Generate Soft-UI CSS code: https://neumorphism.io
 - Blend Modes
   - [`background-blend-mode` color-burn, lighten, multiply are cool](https://codemenatalie.com/blog/background-blend-mode-property/)
 - CSS clip path
